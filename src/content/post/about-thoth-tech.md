@@ -10,76 +10,24 @@ tags:
 ---
  
  
-Thoth Tech, established in 2022, is a brand-new software development company currently bustling in Melbourne, Australia. Hey there, our mission is pretty exciting! We're all about using educational technology to make students' learning experiences awesome. Picture this: we're crafting tools that let students unleash their potential, connect with tutors, and personalize their learning journey. We value every member of our team and are all about delivering top-notch quality. We believe that by creating a supportive and warm learning environment together, we can pave the way for a brighter future in education!
- 
-We have four departments to choose from, each with its own set of responsibilities and skill requirements.
- 
-## Company Operations:
- 
-### ·Quest:
-Embarking on a journey to streamline the flow of initiation, enrich the treasury of internal wisdom, craft the digital face of the company, and enhance the scroll of knowledge.
- 
-### ·Mystic Tools:
- 
-  ·Typescript, the enchanted scribe
- 
-  ·Astro, the celestial architect
- 
-  ·Markdown, the language of lore
- 
-## OnTrack:
- 
-### ·Quest:
- Charting a course to elevate the realm of education through the alchemy of task transformation, expanding the avenues of submission, refining the visage of interface, and summoning insights from the depths of data.
- 
-### ·Magical Tools:
- 
-  ·Ruby on Rails, the enchanted railway with Grape as its elixir
- 
-  ·Angular.js, the venerable weaver, transitioning to Angular and Typescript, the spellbinders of code
- 
- 
-## SplashKit:
- 
-### ·Quest:
- Inspiring aspiring magicians to craft realms of wonder and delight through the conjuring of games and interactive marvels, supported by a tapestry of enchantments.
- 
-### ·Magical Tools:
- 
-  ·C# or C/C++, the incantations of creation
- 
-  ·Splashkit library, the grimoire of enchantments
- 
-  ·Raspberry Pi, the portal to realms unknown, integrating with Emulation Station, the gateway to nostalgia
- 
-## CourseFlow:
- 
-### ·Quest:
- Pioneering the path to simplify the labyrinth of academia and illuminate the road to graduation, now
- 
-harmoniously interwoven into the tapestry of learning.
- 
-### ·Magical Tools:
- 
-  ·Typescript and Angular, the magicians of frontend sorcery
- 
-  ·C#, ASP.NET, and MongoDB, the guardians of backend realms
- 
-  ·Python, the alchemist of data transmutation
- 
-  ### ·Accompanied by:
- 
- ·Git & GitHub, the scrolls of collaboration
- 
- ·Figma, the canvas of imagination
- 
- ·Microsoft Teams, the tavern of camaraderie
- 
- ·Various IDEs, the sanctums of creation
- 
- ·Docker, the vessel of deployment dreams
- 
- 
-   
- 
-If you possess these skills and wish to join us on this journey, we would warmly welcome your addition to our team!
+Thoth Tech, a beacon of innovation in the bustling tech scene of Melbourne, Australia, is not your ordinary software development company. Established in 2022, our mission is as thrilling as it gets: revolutionizing education through the power of technology. Picture this: we're crafting digital tools that transform the learning journey for students worldwide, empowering them to unlock their full potential, connect with mentors, and embark on personalized educational adventures.
+
+At Thoth Tech, we value every member of our team like family, and our commitment to excellence shines through in everything we do. We believe in creating a supportive and nurturing environment where creativity flourishes, ideas thrive, and magic happens.
+
+Now, let's delve into the enchanting realms of our projects:
+
+## Company Operations: Make the process easier
+Embark on a journey with Quest, where we streamline initiation processes, enrich our internal wisdom treasury, craft our digital identity, and enhance our knowledge repository. To wield the magic of Quest, you'll need skills in TypeScript, Astro (our celestial architect), and Markdown (the language of lore).
+
+## OnTrack: Chart Your Course to Success
+Join the OnTrack team as we elevate education through the alchemy of task transformation, interface refinement, and data insights summoning. Harness the power of Ruby on Rails, Angular.js, and TypeScript to weave spells of code.
+
+## SplashKit: Crafting Realms of Wonder
+At SplashKit, we inspire aspiring magicians to create realms of wonder through games and interactive marvels. Dive into the enchantments of C# or C/C++, Splashkit library, and Raspberry Pi to unlock the gateway to nostalgia.
+
+## CourseFlow: Pioneering the Path to Graduation
+Join CourseFlow on our quest to simplify academia's labyrinth and illuminate the road to graduation. Master the magic of TypeScript, Angular, C#, ASP.NET, MongoDB, and Python to weave the tapestry of learning.
+
+Accompanied by the scrolls of collaboration (Git & GitHub), the canvas of imagination (Figma), the tavern of camaraderie (Microsoft Teams), and the sanctums of creation (Various IDEs, Docker), your journey at Thoth Tech promises to be nothing short of extraordinary.
+
+If you possess the skills and passion to embark on this magical journey with us, we warmly welcome your addition to our team! But remember, Thoth Tech is a haven for tech enthusiasts and Capstone project aficionados. So, before you leap into the adventure, ensure your skills align with our quests. After all, it's not just about joining a company; it's about becoming part of a magical journey that shapes the future of education.
