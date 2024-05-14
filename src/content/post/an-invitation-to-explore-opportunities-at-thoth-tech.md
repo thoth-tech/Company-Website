@@ -8,9 +8,6 @@ tags:
   - Capstone
   - Deakin
 ---
- 
- 
-
 
 Dear Friends,
 
@@ -21,18 +18,22 @@ First and foremost, allow me to introduce our company. Thoth Tech is a budding s
 Now, let me introduce you to our projects:
 
 ## Project 1: Company Operations
+
 Embark on a journey with us to streamline our operational processes, enrich our internal knowledge base, shape our digital identity, and enhance our repository of knowledge. For this endeavor, we're seeking individuals skilled in TypeScript, Astro, and Markdown.
 <img src="/logo-light-theme.png" alt="frog animation."/><center><caption>Company Operations</caption></center>
 
 ## Project 2: OnTrack
+
 Join the OnTrack team in charting a course to elevate education through transformative tasks, refining user interfaces, and summoning insights from data. If you excel in Ruby on Rails, Angular.js, and TypeScript, you'll find ample opportunities to showcase your talents here.
 <img src="/OnTrack-img.png" alt="frog animation."/><center><caption>OnTrack</caption></center>
 
 ## Project 3: SplashKit
+
 At SplashKit, we inspire aspiring magicians to craft realms of wonder through games and interactive marvels. This project calls for proficiency in C# or C/C++, along with knowledge of Splashkit library and Raspberry Pi integration.
 <img src="/splashkitlogo.png" alt="frog animation."/><center><caption>SplashKit</caption></center>
 
 ## Project 4: CourseFlow
+
 Join CourseFlow in pioneering the path to simplify academia's labyrinth and illuminate the road to graduation. Proficiency in TypeScript, Angular, C#, ASP.NET, MongoDB, and Python will be valuable assets for this project.
 <img src="/courseflowlogo.png" alt="frog animation."/><center><caption>CourseFlow</caption></center>
 
