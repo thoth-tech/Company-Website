@@ -22,7 +22,7 @@ Now, let me introduce you to our projects:
 
 ## Project 1: Company Operations
 Embark on a journey with us to streamline our operational processes, enrich our internal knowledge base, shape our digital identity, and enhance our repository of knowledge. For this endeavor, we're seeking individuals skilled in TypeScript, Astro, and Markdown.
-<img src="/companyopslogo.png" alt="frog animation."/><center><caption>Company Operations</caption></center>
+<img src="/logo-light-theme.png" alt="frog animation."/><center><caption>Company Operations</caption></center>
 
 ## Project 2: OnTrack
 Join the OnTrack team in charting a course to elevate education through transformative tasks, refining user interfaces, and summoning insights from data. If you excel in Ruby on Rails, Angular.js, and TypeScript, you'll find ample opportunities to showcase your talents here.
@@ -34,6 +34,7 @@ At SplashKit, we inspire aspiring magicians to craft realms of wonder through ga
 
 ## Project 4: CourseFlow
 Join CourseFlow in pioneering the path to simplify academia's labyrinth and illuminate the road to graduation. Proficiency in TypeScript, Angular, C#, ASP.NET, MongoDB, and Python will be valuable assets for this project.
+<img src="/courseflowlogo.png" alt="frog animation."/><center><caption>CourseFlow</caption></center>
 
 We're genuinely excited about the possibility of you joining our team and contributing to the future of educational technology. If you find our projects intriguing and believe you possess the skills and enthusiasm to contribute, we extend a sincere invitation for you to join us. We're looking forward to embarking on this journey together and creating a brighter future for education.
 
